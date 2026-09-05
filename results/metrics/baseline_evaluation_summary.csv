@@ -1,0 +1,9 @@
+Metric,Value
+Best training epoch,15.0
+Best training-time validation Dice,0.6479
+Full validation Dice,0.6479213237762451
+NCR/NET Dice,0.5159806609153748
+ED Dice,0.6965070962905884
+ET Dice,0.7652360796928406
+Number of validation patients,55.0
+Model parameters,4811129.0
