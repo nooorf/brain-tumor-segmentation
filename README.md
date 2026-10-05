@@ -14,8 +14,6 @@ This project implements an end-to-end 3D medical image segmentation workflow: mu
 
 The model takes four co-registered MRI modalities (T1, T1ce, T2, FLAIR) as input and predicts a four-class voxel-wise segmentation (background, NCR/NET, edema, enhancing tumor). Evaluation is performed on a held-out validation split of 55 patients, with an overall validation Dice of **0.6479**.
 
-This is a baseline research/portfolio implementation, **not** a clinical diagnostic system, and no clinical readiness or clinical usefulness is claimed.
-
 ---
 
 ## Key Results
